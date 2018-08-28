@@ -5,6 +5,7 @@ Modified scripts used at Japanese translation evaluation at WAT.
 The perl scripts at
 * http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/automatic_evaluation_systems/automaticEvaluationJA.html
 * http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/automatic_evaluation_systems/script.segmentation.distribution.tar.gz <br>
+
 do not work in the latest perl environment.
 
 ## Modifications
