@@ -1,5 +1,5 @@
 # WAT-scripts
-Modified scripts used at Japanese translation evaluation at WAT.
+Modified scripts used for Japanese translation evaluation at WAT.
 
 ## Why?
 The perl scripts at
